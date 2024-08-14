@@ -9,18 +9,6 @@ The dataset used in this project is the "Data Science Job Salaries" dataset, whi
 **Kaggle Dataset Citation:**
 - J, Shan (2021). Data Science Job Salaries. Kaggle. Retrieved August 14, 2024, from [https://www.kaggle.com/datasets/ruchi798/data-science-job-salaries](https://www.kaggle.com/datasets/ruchi798/data-science-job-salaries)
 
-## Project Structure
-
-The project is organized as follows:
-
-├── figures # Directory containing the figures used for evaluation
-├── models # Directory containing the saved models (.pkl files)
-├── results # Directory containing the result files (.txt)
-├── decision_tree.py # Script for Decision Tree model
-├── grad_boost.py # Script for Gradient Boosting model
-├── linear_regression.py # Script for Linear Regression model
-├── svm.py # Script for Support Vector Machine (SVM) model
-└── ds_salaries.csv # Dataset used for the analysis
 
 
 ## How to Run the Project
