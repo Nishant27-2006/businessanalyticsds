@@ -1,0 +1,2 @@
+Linear Regression Mean Squared Error: 7.835435488368005e+37
+Regression Equation: y = 89969554976.50x + -739288845162.44
